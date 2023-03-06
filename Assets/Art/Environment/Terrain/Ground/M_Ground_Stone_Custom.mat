@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_Ground_Stone
+  m_Name: M_Ground_Stone_Custom
   m_Shader: {fileID: -6465566751694194690, guid: a3a8426d13c629545a7dd08bb11da241,
     type: 3}
   m_ValidKeywords: []
