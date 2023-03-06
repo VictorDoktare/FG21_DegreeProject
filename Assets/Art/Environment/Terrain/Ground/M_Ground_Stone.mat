@@ -22,7 +22,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _AO:
-        m_Texture: {fileID: 2800000, guid: 8db2d8492407ebe4593f3084f8c2fa15, type: 3}
+        m_Texture: {fileID: 2800000, guid: fa5834049f478d242ae772f541fece22, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
@@ -46,7 +46,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Diffuse:
-        m_Texture: {fileID: 2800000, guid: 8ddaa37bf45bb4544a819239415dd55c, type: 3}
+        m_Texture: {fileID: 2800000, guid: e7ea598c46bc10e4aa53fc36f11d0270, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -62,7 +62,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Normal:
-        m_Texture: {fileID: 2800000, guid: 7db13b9fe20cc4548b135a2aaaad86ec, type: 3}
+        m_Texture: {fileID: 2800000, guid: 74ededf5de07b0a48b0db29cbd033ed8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -74,7 +74,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Roughness:
-        m_Texture: {fileID: 2800000, guid: a78165dfb18f31742975adf52fcbd127, type: 3}
+        m_Texture: {fileID: 2800000, guid: 328178b9b38bdcf4d965df746d43147d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_f0bb112fb8d443fb8cd5db213dcd6d6e_Texture_1:
@@ -99,7 +99,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AO_Intensity: 2.75
+    - _AO_Intensity: 1
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -116,7 +116,7 @@ Material:
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 0
-    - _Normal_Intensity: 0.4
+    - _Normal_Intensity: 0.5
     - _Normal_Offset: 0.25
     - _Normal_Strength: 1
     - _OcclusionStrength: 1
@@ -142,10 +142,10 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Normal_Scale: {r: 1, g: 1, b: 0, a: 0}
     - _Normal_Tile_Offset: {r: 0.15, g: 0.15, b: 0, a: 0}
-    - _Primary_Color: {r: 0.8490566, g: 0.8490566, b: 0.8490566, a: 1}
+    - _Primary_Color: {r: 0.6080456, g: 0.71338403, b: 0.754717, a: 1}
     - _Roughness_Scale: {r: 1, g: 1, b: 0, a: 0}
     - _Roughness_Tile_Offset: {r: 0.15, g: 0.15, b: 0, a: 0}
-    - _Secondary_Color: {r: 0.18867922, g: 0.18867922, b: 0.18867922, a: 1}
+    - _Secondary_Color: {r: 0.33401567, g: 0.4074043, b: 0.4245283, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _Tiling_Offset: {r: 0.15, g: 0.15, b: 0.15, a: 0.15}
   m_BuildTextureStacks: []
